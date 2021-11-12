@@ -1,0 +1,16 @@
+C:\Users\mob11\source\repos\TestGreet\TestGreet\bin\Debug\net5.0\TestGreet.exe
+C:\Users\mob11\source\repos\TestGreet\TestGreet\bin\Debug\net5.0\TestGreet.deps.json
+C:\Users\mob11\source\repos\TestGreet\TestGreet\bin\Debug\net5.0\TestGreet.runtimeconfig.json
+C:\Users\mob11\source\repos\TestGreet\TestGreet\bin\Debug\net5.0\TestGreet.runtimeconfig.dev.json
+C:\Users\mob11\source\repos\TestGreet\TestGreet\bin\Debug\net5.0\TestGreet.dll
+C:\Users\mob11\source\repos\TestGreet\TestGreet\bin\Debug\net5.0\ref\TestGreet.dll
+C:\Users\mob11\source\repos\TestGreet\TestGreet\bin\Debug\net5.0\TestGreet.pdb
+C:\Users\mob11\source\repos\TestGreet\TestGreet\obj\Debug\net5.0\TestGreet.csproj.AssemblyReference.cache
+C:\Users\mob11\source\repos\TestGreet\TestGreet\obj\Debug\net5.0\TestGreet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob11\source\repos\TestGreet\TestGreet\obj\Debug\net5.0\TestGreet.AssemblyInfoInputs.cache
+C:\Users\mob11\source\repos\TestGreet\TestGreet\obj\Debug\net5.0\TestGreet.AssemblyInfo.cs
+C:\Users\mob11\source\repos\TestGreet\TestGreet\obj\Debug\net5.0\TestGreet.csproj.CoreCompileInputs.cache
+C:\Users\mob11\source\repos\TestGreet\TestGreet\obj\Debug\net5.0\TestGreet.dll
+C:\Users\mob11\source\repos\TestGreet\TestGreet\obj\Debug\net5.0\ref\TestGreet.dll
+C:\Users\mob11\source\repos\TestGreet\TestGreet\obj\Debug\net5.0\TestGreet.pdb
+C:\Users\mob11\source\repos\TestGreet\TestGreet\obj\Debug\net5.0\TestGreet.genruntimeconfig.cache
